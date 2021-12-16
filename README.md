@@ -6,5 +6,5 @@ Traduções
 ====================
 | Nome  |  Arquivo  |
 | ------------------- | ------------------- |
-|  Desperados 3 |  Desperados3.iss |
+|  Desperados 3 |  desperados3.iss |
 
