@@ -6,5 +6,5 @@ Traduções
 ====================
 | Nome  |  Arquivo  |
 | ------------------- | ------------------- |
-|  Desperados 3 |  desperados3.iss |
+|  [Desperados 3](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR) |  desperados3.iss |
 
